@@ -1,1 +1,8 @@
 theme: jekyll-theme-modernist
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jemoji
+  - jekyll-mentions
+title: C Programming
