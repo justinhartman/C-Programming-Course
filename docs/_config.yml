@@ -5,4 +5,5 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-mentions
+  - jekyll-github-metadata
 title: C Programming
