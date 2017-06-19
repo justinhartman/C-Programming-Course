@@ -1,4 +1,4 @@
-language: c
+language: nil
 deploy:
   provider: pages
   skip_cleanup: true
