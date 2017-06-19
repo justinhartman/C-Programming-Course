@@ -3,7 +3,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: docs
-  target_branch: /docs
+  target_branch: master
   name: Travis CI
   github_token: $GITHUB_TOKEN
   on:
