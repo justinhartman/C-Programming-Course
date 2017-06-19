@@ -1,4 +1,4 @@
-language: nil
+language: html
 deploy:
   provider: pages
   skip_cleanup: true
