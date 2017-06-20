@@ -3,8 +3,8 @@ deploy:
   provider: pages
   skip_cleanup: true
   local_dir: docs
-  target_branch: master
+  target_branch: gh-pages
   name: Travis CI
   github_token: $GITHUB_TOKEN
   on:
-    branch: master
+    branch: gh-pages
