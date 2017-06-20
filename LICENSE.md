@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Deploy justinhartman/C-Programming-Course to github.com/justinhartman/C-Programming-Course.git:gh-pages
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
@@ -436,6 +439,7 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+<<<<<<< HEAD
 =======
 Copyright (C) 2008-2017 [Justin Hartman](http://justin.hartman.me)
 
@@ -1114,3 +1118,5 @@ the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 >>>>>>> Added LICENSE information
+=======
+>>>>>>> Deploy justinhartman/C-Programming-Course to github.com/justinhartman/C-Programming-Course.git:gh-pages
