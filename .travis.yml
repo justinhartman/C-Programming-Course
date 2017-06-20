@@ -8,3 +8,4 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: gh-pages
+
