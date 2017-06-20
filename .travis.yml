@@ -7,5 +7,4 @@ deploy:
   name: Travis CI
   github_token: $GITHUB_TOKEN
   on:
-    branch: gh-pages
-
+    branch: master
