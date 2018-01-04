@@ -18,7 +18,7 @@
 ### OSX ###
 *.DS_Store
 .AppleDouble
-.LSOverridess
+.LSOverride
 
 # Icon must end with two \r
 Icon
@@ -95,4 +95,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/osx,linux,windows,sublimetextss
+# End of https://www.gitignore.io/api/osx,linux,windows,sublimetext
